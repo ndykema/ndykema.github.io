@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Battleship Video Game
+A Console-Based Naval Strategy Game In C++
 ===============
 
 -   **Class: CSCI 235** 
