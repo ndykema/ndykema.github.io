@@ -28,7 +28,7 @@ My Programming Projects
 
 ---
 
-Ethics Papers
+Ethical Compositions
 -------------
 
 ### [Paper 1 Title](/pdf/sample_presentation.pdf)
