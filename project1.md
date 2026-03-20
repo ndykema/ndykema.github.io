@@ -1,28 +1,44 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Battleship Video Game
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 235** 
+-   **Grade: A** 
+-   **Language(s): C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Creation of a basic version of Battleship - the iconic game for
+younger kids. This project will implement a 10x10 grid that ships can be
+placed on. Before play begins, the enemy's fleet of ships is secretly 
+positioned, while you get an unlimited number of random boards. Lock in your
+board and start taking shots at the enemy, in the hopes that you can sink 
+their fleet, and be the Master of the Seas!
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+In order to compile and run this program, the following are needed:
+- A C++ compiler and IDE that supports standard C++ (Any Visual Studio version of g++)
+- All required source and header files in the same main Battleship folder:
+      - Battleship.cpp
+      - EnemyAI.hpp
+      - GameSpecs.hpp
 
+Compilation for g++
 ```bash
-cd ./project
-python setup.py
+cd /Battleship
+g++ Battleship.cpp -o Battleship
+Battleship.exe
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Compilation for Visual Studio
+1.) Go to the GitHub repoistory for the project and Download ZIP.
+2.) Extract the ZIP file and open the file named Battleship.sln
+3.) In Visual Studio, build the program using Ctrl + Shift + B
+4.) Run the program using CTRL + F5
 
 ## UI Design
 
