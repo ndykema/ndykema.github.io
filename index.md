@@ -1,10 +1,10 @@
 Portfolio
 =========
 
-Programming Projects
+My Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:NKDykema@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Console Battleship in C++ | CSCI 235](project1.md)
