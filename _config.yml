@@ -11,6 +11,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <a href="https://app.joinhandshake.com/profiles/pab79n">View My Resume</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/nathan-dykema-b089aa1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0QxrWVQoRr2ZFnCZ4mEz3g%3D%3D">View My LinkedIn Profile</a>
+  <br /><br />
+  <a href="https://github.com/ndykema/ndykema.github.io">View My Repository</a>
 button:
   text: "View Repository"
   url: "https://github.com/ndykema/ndykema.github.io"
