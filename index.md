@@ -1,4 +1,3 @@
-import assets/css/style.scss
 
 Portfolio
 =========
