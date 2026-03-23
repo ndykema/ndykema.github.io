@@ -12,8 +12,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="https://www.linkedin.com/in/nathan-dykema-b089aa1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0QxrWVQoRr2ZFnCZ4mEz3g%3D%3D">View My LinkedIn Profile</a>
 button:
-  text: "repository"
-  repo: "ndykema/ndykema.github.io"
+  text: "View Repository"
+  url: "https://github.com/ndykema/ndykema.github.io"
 github_username:  ndykema # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
