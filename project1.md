@@ -10,13 +10,9 @@ A Console-Based Naval Strategy Game In C++
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
+This project is a console based recreation of the classic game Battleship. The game uses a 10 by 10 grid where fleets are placed before battle begins. The enemy fleet is generated in secret, while the player is given an unlimited number of randomly generated boards to preview until they are satisfied with one. Once the player accepts a board, the battle begins.
 
-Creation of a basic version of Battleship - the iconic game for
-younger kids. This project will implement a 10x10 grid that ships can be
-placed on. Before play begins, the enemy's fleet of ships is secretly 
-positioned, while you get an unlimited number of random boards. Lock in your
-board and start taking shots at the enemy, in the hopes that you can sink 
-their fleet, and be the Master of the Seas!
+During gameplay, the player and enemy take turns firing at each other’s fleets. The program keeps track of hits, misses, and sunk ships, and the game continues until one side has lost every ship. In addition to the core game logic, I added features that improve the overall experience, such as a typing effect for program dialogue, short delays for pacing, and a simple enemy targeting animation to make the AI feel more interactive.
 
 ## How to compile and run the program
 
@@ -42,9 +38,13 @@ Compilation for Visual Studio
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Although this project is a console application, it still includes a structured user interface that allows the player to interact with the game in a clear and organized way.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+At the start of the game, the player is shown randomly generated ship layouts and can continue cycling through them until they choose one they want to use. Once the game begins, the program displays the enemy board and the player board side by side so the player can track both their own fleet and their attacks. Enemy ship positions remain hidden during normal play, while hits and misses are clearly shown.
+
+The player enters coordinates such as B2 to fire shots. The program validates user input by checking whether the coordinates are on the board and whether the player has already fired at that location. If the input is invalid, the program provides feedback and prompts the user to try again. After each turn, the game reports whether the shot was a hit or miss, and it also informs the player when a ship has been sunk.
+
+To make the game feel more lively, I included a typing animation for dialogue and a short enemy shot animation that rapidly cycles through coordinates before revealing the AI’s final target. These additions help the command line interface feel more dynamic and engaging.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -57,7 +57,9 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+One important part of this project was balancing game logic with readability and user experience. I wanted the program to do more than simply function correctly, so I focused on making the gameplay easier to follow by clearly showing board states, validating input, and pacing messages so the player has time to read them.
+
+This project also gave me practice working with multidimensional arrays, functions, header files, enumerated game states, randomization, and turn based logic. It strengthened my understanding of how to organize a larger C++ program into manageable parts while still keeping the code understandable. Because the project combines logic, input handling, and presentation, it was a strong exercise in both problem solving and user centered program design.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
