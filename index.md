@@ -9,7 +9,7 @@ My Programming Projects
 ---
 ### [Console Battleship in C++ | CSCI 235](project1.md)
 
-![Project 1 Thumbnail Name](images/ClassicBattleship.jpg)(project1.md)
+![Project 1 Thumbnail Name](images/ClassicBattleship.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](project2.md)
