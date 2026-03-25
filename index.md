@@ -15,7 +15,7 @@ My Programming Projects
 ---
 ### [C# Unity Game Development | CS445](project2.md)
 
-![Project 2 Thumbnail Name](images/Base_loadScreen.png)
+![Project 2 Thumbnail Name](images/Base_loadscreen.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
