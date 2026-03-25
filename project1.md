@@ -46,14 +46,20 @@ The player enters coordinates such as B2 to fire shots. The program validates us
 
 To make the game feel more lively, I included a typing animation for dialogue and a short enemy shot animation that rapidly cycles through coordinates before revealing the AI’s final target. These additions help the command line interface feel more dynamic and engaging.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](Battleship_BoardRefresh.jpg)  
+Fig 1. The Launch Screen and Board Refesh
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](Battleship_GameBegin.jpg)  
+Fig 2. Let the Game Begin!
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](Battleship_ShotHit.jpg)  
+Fig 3. Taking a shot.
+
+![screenshot](Battleship_ErrorHandle.jpg)
+Fig 4. Error Handling
+
+![screenshot](Battleship_ErrorHandle.jpg)
+Fig 5. Sinking a ship!
 
 ## 3. Additional Considerations
 
