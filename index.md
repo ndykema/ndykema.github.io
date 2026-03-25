@@ -13,7 +13,7 @@ My Programming Projects
 ![Project 1 Thumbnail Name](images/ClassicBattleship.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project2.md)
+### [C# Unity Game Development | CS445](project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
