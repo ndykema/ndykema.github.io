@@ -6,7 +6,7 @@ A Console-Based Naval Strategy Game In C++
 -   **Class: CSCI 235** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [CSCI Procedural Programming - Battleship Project]((https://github.com/ndykema/CSCI235-Procedural-Programming/tree/main/Battleship))  
+-   **Source Code Repository:** [CSCI Procedural Programming - Battleship Project](https://github.com/ndykema/CSCI235-Procedural-Programming/tree/main/Battleship)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
