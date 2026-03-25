@@ -6,7 +6,7 @@ A Console-Based Naval Strategy Game In C++
 -   **Class: CSCI 235** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [CSCI Procedural Programming - Battleship Project]([https://guides.github.com/features/mastering-markdown/](https://github.com/ndykema/CSCI235-Procedural-Programming/tree/main/Battleship))  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,7 +17,7 @@ During gameplay, the player and enemy take turns firing at each other’s fleets
 ## How to compile and run the program
 
 In order to compile and run this program, the following are needed:
-- A C++ compiler and IDE that supports standard C++ (Any Visual Studio version of g++)
+- A C++ compiler and IDE that supports standard C++ (Any Visual Studio version or g++)
 - All required source and header files in the same main Battleship folder:
       - Battleship.cpp
       - EnemyAI.hpp
@@ -30,8 +30,8 @@ g++ Battleship.cpp -o Battleship
 Battleship.exe
 ```
 
-Compilation for Visual Studio
-1.) Go to the GitHub repoistory for the project and Download ZIP.
+Compilation for Visual Studio:
+1.) Go to the GitHub repoistory for the project and Download ZIP. 
 2.) Extract the ZIP file and open the file named Battleship.sln
 3.) In Visual Studio, build the program using Ctrl + Shift + B
 4.) Run the program using CTRL + F5
