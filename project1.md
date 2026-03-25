@@ -58,7 +58,7 @@ Fig 3. Taking a shot.
 ![screenshot](images/Battleship_ErrorHandle.png)
 Fig 4. Error Handling
 
-![screenshot](images/Battleship_ErrorHandle.png)
+![screenshot](images/Battleship_Sunken.png)
 Fig 5. Sinking a ship!
 
 ## 3. Additional Considerations
