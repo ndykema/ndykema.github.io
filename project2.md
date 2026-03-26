@@ -67,6 +67,6 @@ Additional considerations for this project included scalability, player guidance
 
 Performance and usability were also taken into account, especially with lighting effects and physics interactions in a dark environment and adding background noises and music. Care was taken to ensure that visual elements enhanced the experience without negatively impacting performance. Future improvements could include expanding level design, adding more complex puzzles, implementing a save system, and refining audio design to further increase immersion.
 
-For more details see [Beneath The Shattered Sky Presentation](assets/VideoGamePresentation.ppt).
+For more details see [Beneath The Shattered Sky Presentation](assets/BeneathTheShatteredSky.pptx).
 
 [Back to Portfolio](./)
