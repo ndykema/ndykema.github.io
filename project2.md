@@ -65,7 +65,7 @@ Fig 5. Player Death
 
 Additional considerations for this project included scalability, player guidance, and performance. The core systems were designed using object-oriented principles so that new mechanics, items, and interactions can be added without needing to rewrite existing code. I also focused on balancing guidance and exploration by introducing subtle visual cues, such as lighting, to lead the player without explicit instructions.
 
-Performance and usability were also taken into account, especially with lighting effects and physics interactions in a dark environment. Care was taken to ensure that visual elements enhanced the experience without negatively impacting performance. Future improvements could include expanding level design, adding more complex puzzles, implementing a save system, and refining audio design to further increase immersion.
+Performance and usability were also taken into account, especially with lighting effects and physics interactions in a dark environment and adding background noises and music. Care was taken to ensure that visual elements enhanced the experience without negatively impacting performance. Future improvements could include expanding level design, adding more complex puzzles, implementing a save system, and refining audio design to further increase immersion.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
