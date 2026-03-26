@@ -55,10 +55,10 @@ Fig 4. Basic CutScene
 ![screenshot](images/Unity_InteractibleCandles.png)  
 Fig 5. Interactible Candles
 
-![screenshot](images/Unity_Transversingtherocks.png)  
+![screenshot](images/Unity_Traversingtherocks.png)  
 Fig 5. Transversing the Rocks
 
-![screenshot](images/Unity_Respawn)  
+![screenshot](images/Unity_Respawn.png)  
 Fig 5. Player Death
 
 ## 3. Additional Considerations
