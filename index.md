@@ -39,13 +39,13 @@ Ethical Compositions
 
 ### [Autonomous Vehicles and Moral Decision](assets/Autonomous_Vehicles_and_Moral_Decision.pdf)
 
--   **Class:** CSCI
+-   **Class:** CSCI 332
 -   **Grade:** A
 
 ### [The Ethical Implications of Artificial Intelligence in Software Developement](/assets/The_Ethical_Implications_of_Artificial_Intelligence_in_Software_Development.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 301
+-   **Grade:** A
 
 ---
 
