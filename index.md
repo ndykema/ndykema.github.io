@@ -37,7 +37,7 @@ Ethical Compositions
 -   **Class:**  CSCI 445
 -   **Grade:**  A
 
-### [Autonomous Vehicles and Moral Decision](/assets/Autonomous Vehicles and Moral Decision.docx)
+### [Autonomous Vehicles and Moral Decision](/assets/Autonomous Vehicles and Moral Decision.pdf)
 
 -   **Class:** CSCI
 -   **Grade:** A
