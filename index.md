@@ -58,7 +58,7 @@ Presentations
 - **Grade:**
 
 
-### [Video Presentation: The Future of Cybersecurity: Quantum Computing's Effect on Encryption](https://youtu.be/Sj8j1Za-s5s)
+### [Video Presentation: The Future of Cybersecurity: Quantum Computing's Effect on Encryption]([https://youtu.be/Sj8j1Za-s5s](https://youtu.be/CMtJ2GxUCPk))
 
 - **Class:** CSCI 405   
 - **Grade:** A
