@@ -32,12 +32,12 @@ My Programming Projects
 Ethical Compositions
 -------------
 
-### [Cyberattacks and the Electronic Grid](assets/Cyberattacks and the Electronic Grid.docx)
+### [Cyberattacks and the Electronic Grid](assets/CyberattacksandtheElectronicGrid.docx)
 
 -   **Class:**  CSCI 445
 -   **Grade:**  A
 
-### [Autonomous Vehicles and Moral Decision](assets/Autonomous Vehicles and Moral Decision.pdf)
+### [Autonomous Vehicles and Moral Decision](assets/AutonomousVehiclesandMoralDecision.pdf)
 
 -   **Class:** CSCI
 -   **Grade:** A
