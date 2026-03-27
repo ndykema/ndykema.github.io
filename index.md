@@ -58,10 +58,10 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Video Presentation: The Future of Cybersecurity: Quantum Computing's Effect on Encryption](https://youtu.be/Sj8j1Za-s5s)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405   
+- **Grade:** A
 
 ---
 
