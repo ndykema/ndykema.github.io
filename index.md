@@ -8,7 +8,7 @@ My Programming Projects
 *For access to my private project repositories, please [email me](mailto:NKDykema@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Console Battleship in C++ | CSCI 235](project1.md)
+### [C++ Console Battleship | CSCI 235](project1.md)
 
 ![Project 1 Thumbnail Name](images/ClassicBattleship.jpg)
 
@@ -18,7 +18,7 @@ My Programming Projects
 ![Project 2 Thumbnail Name](images/Base_loadscreen.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Java Console Computer Store | CSCI 325](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
