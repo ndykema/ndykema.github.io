@@ -13,12 +13,12 @@ My Programming Projects
 ![Project 1 Thumbnail Name](images/ClassicBattleship.jpg)
 
 ---
-### [C# Unity Game Development | CS445](project2.md)
+### [C# Unity Game Development | CS 445](project2.md)
 
 ![Project 2 Thumbnail Name](images/Base_loadscreen.png)
 
 ---
-### [Java Console Computer Store | CS187](project3.md)
+### [Java Console Computer Store | CS 187](project3.md)
 
 ![Project 3 Thumbnail Name](images/MainMenu.png)
 
