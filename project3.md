@@ -3,10 +3,10 @@
 Java OOP - Console Computer Store 
 ===============
 
--   **Class:** CS
+-   **Class:** CS187
 -   **Grade:** A
--   **Language(s):** C# 
--   **Source Code Repository:** [Unity Video Game Development](https://github.com/ndykema/CS445-Video-Game-Development)  
+-   **Language(s):** Java
+-   **Source Code Repository:** [Java OOP Computer Store](https://github.com/ndykema/ComputerStoreProject)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
