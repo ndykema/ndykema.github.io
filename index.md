@@ -18,9 +18,9 @@ My Programming Projects
 ![Project 2 Thumbnail Name](images/Base_loadscreen.png)
 
 ---
-### [Java Console Computer Store | CSCI 325](project1)
+### [Java Console Computer Store | CS187](project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/MainMenu.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
