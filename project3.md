@@ -1,9 +1,9 @@
 [Back to Portfolio](./)
 
-Beneath The Shattered Sky - Video Game Development
+Java OOP - Console Computer Store 
 ===============
 
--   **Class:** CS445
+-   **Class:** CS
 -   **Grade:** A
 -   **Language(s):** C# 
 -   **Source Code Repository:** [Unity Video Game Development](https://github.com/ndykema/CS445-Video-Game-Development)  
