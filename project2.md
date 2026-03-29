@@ -25,7 +25,8 @@ git clone https://github.com/ndykema/CS445-Video-Game-Development.git
 or you can also download the ZIP from GitHub.
 
 You must download Unity Hub in order to open the project folder and ensure that you use the correct version of Unity to boot this project. 
-The Version: 2022.3.60f1
+
+    The Version: 2022.3.60f1
 
 Once the project folder is open, you can use the Play button at the top of the editor to sample it in Unity Hub, or you can build an executable file using the File > Build Settings > Select the Platform > Build. 
 
