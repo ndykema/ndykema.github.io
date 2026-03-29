@@ -3,8 +3,8 @@
 Beneath The Shattered Sky - Video Game Development
 ===============
 
--   **Class:** CS445
--   **Grade:** A
+-   **Class: CS445**
+-   **Grade: A** 
 -   **Language(s):** C# 
 -   **Source Code Repository:** [Unity Video Game Development](https://github.com/ndykema/CS445-Video-Game-Development)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
