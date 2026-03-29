@@ -35,10 +35,10 @@ java ComputerStore
 ```
 Compilation for IDEs:
 
-1.) Open the project folder in your IDE
-2.) Ensure all .java files are included in the project
-3.) Build or compile the project using the IDE’s build option
-4.) Run the main class (ComputerStore.java)
+    1.) Open the project folder in your IDE
+    2.) Ensure all .java files are included in the project
+    3.) Build or compile the project using the IDE’s build option
+    4.) Run the main class (ComputerStore.java)
 
 ## UI Design
 
