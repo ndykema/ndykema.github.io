@@ -3,8 +3,8 @@
 Java OOP - Console Computer Store 
 ===============
 
--   **Class:** CS187
--   **Grade:** A
+-   **Class: CS187**
+-   **Grade: A** 
 -   **Language(s):** Java
 -   **Source Code Repository:** [Java OOP Computer Store](https://github.com/ndykema/ComputerStoreProject)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
