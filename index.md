@@ -27,7 +27,7 @@ My Programming Projects
 Ethical Compositions
 -------------
 
-### [Cyberattacks and the Electronic Grid](assets/Cyberattacks_and_the_Electronic_Grid.docx)
+### [Cyberattacks and the Electronic Grid](assets/Cyberattacks_and_the_Electronic_Grid.pdf)
 
 -   **Class:**  CSCI 445
 -   **Grade:**  A
@@ -37,7 +37,7 @@ Ethical Compositions
 -   **Class:** CSCI 332
 -   **Grade:** A
 
-### [The Ethical Implications of Artificial Intelligence in Software Developement](/assets/The_Ethical_Implications_of_Artificial_Intelligence_in_Software_Development.docx)
+### [The Ethical Implications of Artificial Intelligence in Software Developement](/assets/The_Ethical_Implications_of_Artificial_Intelligence_in_Software_Development.pdf)
 
 -   **Class:** CSCI 301
 -   **Grade:** A
