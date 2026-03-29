@@ -23,11 +23,6 @@ My Programming Projects
 ![Project 3 Thumbnail Name](images/MainMenu.png)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 
 Ethical Compositions
 -------------
