@@ -15,7 +15,7 @@ My Programming Projects
 ---
 ### [Farmageddon Full Stack Application | CSCI 334](project4.md)
 
-![Project 3 Thumbnail Name](images/MainMenu.png)
+![Project 3 Thumbnail Name](images/Homepage.png)
 
 ---
 ### [C# Unity Game Development | CS 445](project2.md)
