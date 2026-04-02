@@ -53,13 +53,13 @@ Ethical Compositions
 Presentations
 -------------
 
-### [Video Presentation: CSCI 334 Group Project Full Stack Application]([https://youtu.be/IsZ15s8g4GI])
+### [Video Presentation: CSCI 334 Group Project Full Stack Application](https://youtu.be/IsZ15s8g4GI)
 
 - **Class:** CSCI 334
 - **Grade:** Ungraded
 
 
-### [Video Presentation: The Future of Cybersecurity: Quantum Computing's Effect on Encryption]([https://youtu.be/Sj8j1Za-s5s](https://youtu.be/CMtJ2GxUCPk))
+### [Video Presentation: The Future of Cybersecurity: Quantum Computing's Effect on Encryption](https://youtu.be/CMtJ2GxUCPk)
 
 - **Class:** CSCI 405   
 - **Grade:** A
