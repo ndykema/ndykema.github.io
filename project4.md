@@ -6,7 +6,7 @@ Full Stack Application - Farmageddon App
 -   **Class: CSCI 334**
 -   **Grade: In-Progress** 
 -   **Language(s):** JavaScript, C#, CSS, HTML
--   **Source Code Repository:** [Java OOP Computer Store](https://github.com/ndykema/Farmageddon)  
+-   **Source Code Repository:** [Full Stack Application Project](https://github.com/ndykema/Farmageddon)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
