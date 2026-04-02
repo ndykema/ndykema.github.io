@@ -19,38 +19,51 @@ In addition to product selection, the program focuses on maintaining a clean and
 
 ## How to compile and run the program
 
-How to compile and run the project.
-
 In order to compile and run this program, the following are needed:
 
-- A Java Development Kit (JDK 8 or higher)
-- A Java-compatible IDE (such as Visual Studio Code, Eclipse, or IntelliJ)
+ - Node.js (for React frontend)
+ - .NET SDK (for backend)
+ - Visual Studio Code or Visual Studio
 
-All required source files should be located in the same project folder.
+Download the Zip file and unzip in the desired location.
 
+Once this is done, open CMD and follow the Back end and Front end Instructions.
+
+### Running the Backend
 ```bash
-cd /ComputerStore
-javac ComputerStore.java
-java ComputerStore
+cd /Farmageddon/MyBackend
+dotnet run
 ```
-Compilation for IDEs:
+The back end will run at:
+```bash
+http://localhost:5160
+```
 
-    1.) Open the project folder in your IDE
-    2.) Ensure all .java files are included in the project
-    3.) Build or compile the project using the IDE’s build option
-    4.) Run the main class (ComputerStore.java)
+### Running the Frontend
+Open a seperate CMD terminal.
+```bash
+cd /Farmageddon/MyFrontEnd
+npm install
+npm run dev
+```
+The front end will run at:
+```bash
+http://localhost:5173
+```
 
 ## UI Design
 
-Although this project operates in a console environment, it includes a structured and user-friendly interface that allows customers to interact with the catalog efficiently.
+The user interface is designed to be simple, structured, and responsive while demonstrating core frontend concepts.
 
-At launch, the user is presented with a list of available computer models along with their basic information. The interface guides the user through selecting a model and then choosing from a set of upgrade options. Each upgrade includes a description and additional cost, allowing the user to make informed decisions.
+Upon entering the application, users are greeted with a homepage that introduces the Farmageddon Fields concept through descriptive sections and images. Navigation is handled through a persistent banner menu that dynamically updates based on login status.
 
-The program validates user input to ensure that selections are within valid ranges and correspond to available options. If invalid input is detected, the system prompts the user to try again, ensuring smooth interaction and preventing crashes.
+Users can create an account through a form with input validation, ensuring proper data entry before submission. Once registered, users can log in and are redirected based on their role. Standard users are taken to a personal dashboard where their account information is displayed clearly in a structured layout.
 
-After completing the selection process, the program generates a detailed summary of the chosen computer configuration, including the base model, selected upgrades, and final price. This output mimics a simplified receipt system and reinforces clarity for the user.
+Administrative users are directed to an admin dashboard, which provides a more functional interface. This dashboard displays all registered users in a table-like format and allows the admin to promote or demote users using interactive buttons. This demonstrates real-time updates and backend communication.
 
-The interface emphasizes readability by spacing outputs clearly, labeling sections, and guiding the user step by step through the process.
+The application uses conditional rendering extensively to ensure that only appropriate navigation options and pages are visible based on authentication and role. Feedback messages are displayed to inform users of successful actions or errors, improving usability and clarity.
+
+Overall, the interface emphasizes readability, structured layout, and clear interaction flow while maintaining a clean visual design.
 
 
 ![screenshot](images/MainMenu.png)  
@@ -85,15 +98,17 @@ Fig 10. Menu Selection - Quit
 
 ## 3. Additional Considerations
 
-One important aspect of this project involved balancing functionality with simplicity. The goal was to create a system that accurately models a real-world computer store while remaining easy to understand and navigate. This required careful organization of data structures and clear separation between product information, user input handling, and pricing logic.
+One of the primary challenges of this project was integrating frontend and backend systems while maintaining clear separation of responsibilities. The frontend focuses on user interaction and display, while the backend manages data storage, validation, and authentication logic.
 
-This project provided hands-on experience with arrays, ArrayLists, object-oriented programming, and modular design. It also strengthened skills in managing structured data and implementing user-driven workflows in a console application. By separating concerns such as catalog management and pricing logic, the program remains maintainable and scalable for future enhancements.
+Another important consideration was implementing role-based access control. This required careful handling of user data, ensuring that admin privileges were properly assigned and respected throughout the application. The system automatically assigns admin status based on specific conditions during registration, which simplifies testing while demonstrating role differentiation.
 
-Additionally, the project emphasized input validation and user guidance, which are critical in preventing errors and improving usability. These considerations helped reinforce the importance of designing software that not only works correctly but also provides a clear and intuitive experience for the user.
+Security was also a key focus. Passwords are never stored in plain text and are instead hashed using ASP.NET Identity tools. Additionally, login responses are structured to avoid exposing sensitive information.
 
-Because the project simulates a real purchasing system, it serves as a strong example of applying programming concepts to practical applications. It demonstrates the ability to design, structure, and implement a complete system that integrates data management, user interaction, and logical processing.
+The project also demonstrates the use of local storage for maintaining user sessions, allowing the application to persist login state across page refreshes. This improves user experience while showcasing client-side state management.
 
-For more details see [Beneath The Shattered Sky Presentation](assets/BeneathTheShatteredSky.pptx).
+From a design perspective, the application emphasizes modular structure, with separate components handling different parts of the interface. This improves readability, maintainability, and scalability for future development.
+
+Overall, this project highlights the ability to build a complete full-stack application, integrating modern frontend frameworks with backend APIs, database management, and user authentication systems. It demonstrates practical application of software development concepts in a real-world scenario.
 
 [Back to Portfolio](./)
 
