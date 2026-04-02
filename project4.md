@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Java OOP - Console Computer Store 
+Full Stack Application - Farmageddon App 
 ===============
 
--   **Class: CS187**
--   **Grade: A** 
--   **Language(s):** Java
--   **Source Code Repository:** [Java OOP Computer Store](https://github.com/ndykema/ComputerStoreProject)  
+-   **Class: CSCI 334**
+-   **Grade: In-Progress** 
+-   **Language(s):** JavaScript, C#, CSS, HTML
+-   **Source Code Repository:** [Java OOP Computer Store](https://github.com/ndykema/Farmageddon)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
