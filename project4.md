@@ -66,20 +66,20 @@ The application uses conditional rendering extensively to ensure that only appro
 Overall, the interface emphasizes readability, structured layout, and clear interaction flow while maintaining a clean visual design.
 
 
-![screenshot](images/MainMenu.png)  
-Fig 1. Store Main Menu.
+![screenshot](images/Fullstack App/Homepage.png)  
+Fig 1. Web Application Main Menu.
 
-![screenshot](images/EnterCustomerSale.png)  
-Fig 2. Menu Selection - Entering a Customer Sale and selecting device.
+![screenshot](images/WebsiteContent.png)  
+Fig 2. Website Content
 
-![screenshot](images/ComputerUpgradeOptions.png)  
-Fig 3. Possible Upgrades for the device selected
+![screenshot](images/CreateAccountPrompt.png)  
+Fig 3. Homepage Create Account Prompt
 
-![screenshot](images/PurchaseReport.png)  
-Fig 4. Purchase Report from Sale.
+![screenshot](images/CreateAccountPage.png)  
+Fig 4. Create Account Page
 
-![screenshot](images/ModifyPrices.png)  
-Fig 5. Menu Selection - Modify Prices
+![screenshot](images/ErrorHandling.png)  
+Fig 5. Create Account Error Handling
 
 ![screenshot](images/PriceModified.png)  
 Fig 6. Modifying the price of an item
