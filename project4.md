@@ -66,7 +66,7 @@ The application uses conditional rendering extensively to ensure that only appro
 Overall, the interface emphasizes readability, structured layout, and clear interaction flow while maintaining a clean visual design.
 
 
-![screenshot](images/Fullstack App/Homepage.png)  
+![screenshot](images/Homepage.png)  
 Fig 1. Web Application Main Menu.
 
 ![screenshot](images/WebsiteContent.png)  
@@ -81,20 +81,20 @@ Fig 4. Create Account Page
 ![screenshot](images/ErrorHandling.png)  
 Fig 5. Create Account Error Handling
 
-![screenshot](images/PriceModified.png)  
-Fig 6. Modifying the price of an item
+![screenshot](images/LoginPage.png)  
+Fig 6. Login Page
 
-![screenshot](images/ModifyUpgrades.png)  
-Fig 7. Menu Selection - Modify Upgrades
+![screenshot](images/LoginErrorHandle.png)  
+Fig 7. Login Error Handling
 
-![screenshot](images/UpgradePriceChanged.png)  
-Fig 8. Changing the Price of an Upgrade
+![screenshot](images/UserDashboard.png)  
+Fig 8. User Dashboard after Login
 
-![screenshot](images/ListSales.png)  
-Fig 9. Menu Selection - List Sales
+![screenshot](images/AdminDashboard.png)  
+Fig 9. Admin Dashboard after Login
 
-![screenshot](images/QuittingReport.png)  
-Fig 10. Menu Selection - Quit
+![screenshot](images/CMD.png)  
+Fig 10. Front End and Back End running in Command Prompt
 
 ## 3. Additional Considerations
 
