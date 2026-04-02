@@ -93,6 +93,5 @@ Additionally, the project emphasized input validation and user guidance, which a
 
 Because the project simulates a real purchasing system, it serves as a strong example of applying programming concepts to practical applications. It demonstrates the ability to design, structure, and implement a complete system that integrates data management, user interaction, and logical processing.
 
-For more details see [Beneath The Shattered Sky Presentation](assets/BeneathTheShatteredSky.pptx).
 
 [Back to Portfolio](./)
