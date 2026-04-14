@@ -7,12 +7,12 @@ This repository contains the projects and work completed as part of Nathan Dykem
 
 All portfolio projects are organized within this repository and represent coursework, personal projects, and technical demonstrations developed during the Computer Science program.
 
-Portfolio Website
+### Portfolio Website
 
 You can view the full portfolio, including project overviews and additional details here:
 https://ndykema.github.io/
 
-Repository Structure
+### Repository Structure
 
 Projects are located in their respective folders within this repository. Each project may include:
 
