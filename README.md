@@ -19,6 +19,7 @@ Projects are located in their respective folders within this repository. Each pr
 Source code
 Documentation
 Build/run instructions (when applicable)
-Purpose
+
+### Purpose
 
 This repository serves as a centralized location for showcasing technical skills, project experience, and development growth.
