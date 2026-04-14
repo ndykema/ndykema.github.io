@@ -16,9 +16,9 @@ https://ndykema.github.io/
 
 Projects are located in their respective folders within this repository. Each project may include:
 
-Source code
-Documentation
-Build/run instructions (when applicable)
+- Source code
+- Documentation
+- Build/run instructions (when applicable)
 
 ### Purpose
 
